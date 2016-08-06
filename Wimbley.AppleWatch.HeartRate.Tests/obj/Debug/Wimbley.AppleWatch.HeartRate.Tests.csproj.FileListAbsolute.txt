@@ -1,0 +1,9 @@
+C:\Users\dwimbley\documents\visual studio 2015\Projects\Wimbley.AppleWatch\Wimbley.AppleWatch.HeartRate.Tests\bin\Debug\Wimbley.AppleWatch.HeartRate.Tests.dll
+C:\Users\dwimbley\documents\visual studio 2015\Projects\Wimbley.AppleWatch\Wimbley.AppleWatch.HeartRate.Tests\bin\Debug\Wimbley.AppleWatch.HeartRate.Tests.pdb
+C:\Users\dwimbley\documents\visual studio 2015\Projects\Wimbley.AppleWatch\Wimbley.AppleWatch.HeartRate.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\dwimbley\documents\visual studio 2015\Projects\Wimbley.AppleWatch\Wimbley.AppleWatch.HeartRate.Tests\bin\Debug\nunit.framework.dll
+C:\Users\dwimbley\documents\visual studio 2015\Projects\Wimbley.AppleWatch\Wimbley.AppleWatch.HeartRate.Tests\bin\Debug\nunit.framework.xml
+C:\Users\dwimbley\documents\visual studio 2015\Projects\Wimbley.AppleWatch\Wimbley.AppleWatch.HeartRate.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\dwimbley\documents\visual studio 2015\Projects\Wimbley.AppleWatch\Wimbley.AppleWatch.HeartRate.Tests\obj\Debug\Wimbley.AppleWatch.HeartRate.Tests.csprojResolveAssemblyReference.cache
+C:\Users\dwimbley\documents\visual studio 2015\Projects\Wimbley.AppleWatch\Wimbley.AppleWatch.HeartRate.Tests\obj\Debug\Wimbley.AppleWatch.HeartRate.Tests.dll
+C:\Users\dwimbley\documents\visual studio 2015\Projects\Wimbley.AppleWatch\Wimbley.AppleWatch.HeartRate.Tests\obj\Debug\Wimbley.AppleWatch.HeartRate.Tests.pdb

@@ -1,0 +1,101 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+#msg {
+    margin: 10px 0 0 0;
+}
+
+.dz-panel {
+    border: 1px dashed #cccccc;
+    font-size: 20px;
+    padding: 35px;
+    text-align: center;
+    width: 100%;
+    margin: 10px 0 0 0;
+}
+
+.dz-upload-hover {
+    background: #F7B56F;
+}
+
+.dz-preview {
+    display: inline-block;
+    margin: 16px 8px 16px 8px;
+    min-height: 100px;
+    position: relative;
+    vertical-align: top;
+}
+
+.dz-success-mark {
+    color: #5eaf5e;
+    display: block;
+    font-size: 50px;
+    left: 55%;
+    margin-left: -27px;
+    margin-top: -32px;
+    pointer-events: none;
+    position: absolute;
+    top: 55%;
+    z-index: 500;
+}
+
+.dz-error-mark {
+    color: #DB403B;
+
+    display: block;
+    font-size: 50px;
+    left: 55%;
+    margin-left: -27px;
+    margin-top: -32px;
+    pointer-events: none;
+    position: absolute;
+    top: 55%;
+    z-index: 500;
+}
+
+.dz-filename {
+    background-color: #66ffff;
+    background-color: rgba(255, 255, 255, 0.4);
+    border-radius: 3px;
+    color: #000;
+    display: block;
+    font-size: 15px;
+    left: 35%;
+    margin-left: -27px;
+    margin-top: -45px;
+    padding: 0 0.4em;
+    position: absolute;
+    top: 55%;
+    white-space: nowrap;
+    z-index: 500;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: 100px;
+}
+
+.dz-progress {
+    background-color: #CCCCCC;
+    background-color: rgba(255, 255, 255, 0.4);
+    border-radius: 3px;
+    color: #000;
+    display: block;
+    font-size: 15px;
+    left: 35%;
+    margin-left: 8px;
+    margin-top: 0;
+    max-width: 100px;
+    overflow: hidden;
+    padding: 0 0.4em;
+    position: absolute;
+    text-overflow: ellipsis;
+    top: 55%;
+    white-space: nowrap;
+    z-index: 500;
+}
+
+#hr-data {
+    margin: 10px 0 0 0;
+    clear: both;
+}
